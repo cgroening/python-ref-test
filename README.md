@@ -3,7 +3,7 @@
 > [!TIP]
 > Die Referenz ist hier abrufbar:
 > 
-> [cgroening.github.io/Python-Referenz/](cgroening.github.io/Python-Referenz/)
+> [cgroening.github.io/Python-Referenz/](https://cgroening.github.io/Python-Referenz/)
 
 Diese deutschsprachige Referenz zu Python ist im Rahmen meiner eigenen Weiterbildung entstanden. Ich nutze sie als persönliches Nachschlagewerk, um zentrale Sprachkonzepte, Syntaxbesonderheiten und häufige Muster schnell auffrischen zu können.
 
